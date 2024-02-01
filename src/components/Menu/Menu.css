@@ -1,0 +1,31 @@
+/* Menu.css */
+
+menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-bottom: 5vh;
+    width: inherit;
+    margin-top: 20vh;
+    color: #ffdab9;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    /* Adiciona sombras ao texto */
+}
+
+span {
+    color: #cfa1c1;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    /* Adiciona sombras ao texto */
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 0;
+}

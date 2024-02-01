@@ -1,0 +1,15 @@
+/* Footer.css */
+
+.footer-container {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    /* altura do rodapé */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffdab9;
+    height: 2.5rem;
+}
